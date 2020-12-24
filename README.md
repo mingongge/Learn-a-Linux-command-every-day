@@ -1,6 +1,6 @@
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/tuSaKc6SfPrkLj5icJQbQvOK8dNoqOEuRcLr1cAAkJMeINBXia7tBMJHU8TBAs8kiaoO0obeicRuTk6NCVTnUrkwRA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-为了方便大家更好的学习Linux命令，民工哥技术之路公众号自2020年12月21日起，推出**《每天一个Linux命令》**系列文章。
+为了方便大家更好的学习Linux命令，民工哥技术之路公众号自2020年12月21日起，推出 《**每天一个Linux命令**》系列文章。
 
 推送至今，已经推送 篇文章了，今天，民工哥将所有文章统一整理成这个集合，方便大家后续的查找与学习。
 
