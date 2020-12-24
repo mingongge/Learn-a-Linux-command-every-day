@@ -2,7 +2,7 @@
 
 为了方便大家更好的学习Linux命令，民工哥技术之路公众号自2020年12月21日起，推出 《**每天一个Linux命令**》系列文章。
 
-推送至今，已经推送 篇文章了，今天，民工哥将所有文章统一整理成这个集合，方便大家后续的查找与学习。
+民工哥将所有文章统一整理成这个集合，方便大家后续的查找与学习。
 
 整理不易，如有帮助，请**点在看**与**转发朋友圈**支持一下民工哥，谢谢！！！
 
@@ -13,3 +13,12 @@
 [每天一个 Linux 命令（3）：sed](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505422&idx=3&sn=45c302748d8cbf5638018fbc010d725e&chksm=e918b312de6f3a042d3658b9c1c7cc9a6c464616b51129d23b3b73ef02eb32b3edc95e0f8980&token=1378033732&lang=zh_CN#rd)
 
 [每天一个 Linux 命令（4）：awk](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505452&idx=3&sn=1eb4247926473c7dbeb69d1e1fe6ebb5&chksm=e918b330de6f3a264a59ed4adff8a9bb842ec80c24719b106a3da090fc39726f622ff3f3d06e&token=1096160564&lang=zh_CN#rd)
+
+
+
+
+
+
+
+更多技术干货文章，也可以扫码关注民工哥个人微信公众号：民工哥技术之路 
+![图片](https://imgkr2.cn-bj.ufileos.com/f4bd618f-86fd-4a88-885f-0d4906dc2d7c.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=G63b%252FsGlm9gbUKUe4BYOdxVsk4U%253D&Expires=1608871797)
