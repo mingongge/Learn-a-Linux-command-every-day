@@ -2,7 +2,7 @@
 
 为了方便大家更好的学习Linux命令，民工哥技术之路公众号自2020年12月21日起，推出 《**每天学习一个Linux命令**》系列文章。
 
-![图片](/img/bVcMfLz)
+![图片](https://imgkr2.cn-bj.ufileos.com/32a4c3c9-7000-43a6-a0c8-c5b96e074c5e.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=MDg13Oqb3KRW4eujnfHJczXknpg%253D&Expires=1608878244)
 
 每天学一点，坚持一年、二年、十年。。。。。量变一定会积累到质变，一起加油！！！
 
