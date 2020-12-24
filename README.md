@@ -1,4 +1,4 @@
-![](https://imgkr2.cn-bj.ufileos.com/ad99d6a4-3845-4ded-9f38-a6d01fa25b28.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=MiguuDQuS%252FH1yWLhJjc2l%252Fzv5LQ%253D&Expires=1608869698)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tuSaKc6SfPrkLj5icJQbQvOK8dNoqOEuRcLr1cAAkJMeINBXia7tBMJHU8TBAs8kiaoO0obeicRuTk6NCVTnUrkwRA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 为了方便大家更好的学习Linux命令，民工哥技术之路公众号自2020年12月21日起，推出**《每天一个Linux命令》**系列文章。
 
