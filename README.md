@@ -15,7 +15,7 @@
 
 [每天一个 Linux 命令（4）：awk](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505452&idx=3&sn=1eb4247926473c7dbeb69d1e1fe6ebb5&chksm=e918b330de6f3a264a59ed4adff8a9bb842ec80c24719b106a3da090fc39726f622ff3f3d06e&token=1096160564&lang=zh_CN#rd)
 
-
+[每天一个 Linux 命令（5）：grep](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505498&idx=3&sn=9aa9f127da5ed122d9d26d5169dc6d3b&chksm=e918b346de6f3a50c59dc8e3d24cf1c595b59f41c4c3f944747e3870519b1051fcab0da44dc7&token=1096160564&lang=zh_CN#rd)
 
 
 
