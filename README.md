@@ -17,7 +17,7 @@
 
 [每天一个 Linux 命令（5）：grep](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505498&idx=3&sn=9aa9f127da5ed122d9d26d5169dc6d3b&chksm=e918b346de6f3a50c59dc8e3d24cf1c595b59f41c4c3f944747e3870519b1051fcab0da44dc7&token=1096160564&lang=zh_CN#rd)
 
-
+[每天一个 Linux 命令（6）：shutdown](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505523&idx=3&sn=f37d5fdb6df79d5b2a5df21d83ffa8d0&chksm=e918b36fde6f3a79eaf1285a7c121be86e4ae5e4195e85762c70050ae8f23c266e1f2d55d1f5&token=1373455756&lang=zh_CN#rd)
 
 
 
