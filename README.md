@@ -19,7 +19,7 @@
 
 [每天一个 Linux 命令（6）：shutdown](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505523&idx=3&sn=f37d5fdb6df79d5b2a5df21d83ffa8d0&chksm=e918b36fde6f3a79eaf1285a7c121be86e4ae5e4195e85762c70050ae8f23c266e1f2d55d1f5&token=1373455756&lang=zh_CN#rd)
 
-
+[每天一个 Linux 命令（7）：cd](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505576&idx=3&sn=a73d90226197275116c0d942564567e2&chksm=e918b3b4de6f3aa25ca5e9caf9b431b1a0bf4c3ed71f55434b334b31d40e9677f07aaff3d352&token=1373455756&lang=zh_CN#rd)
 
  更多技术干货文章，也可以扫码**关注民工哥个人微信公众号：民工哥技术之路**
 
