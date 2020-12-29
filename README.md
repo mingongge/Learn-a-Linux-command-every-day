@@ -21,6 +21,10 @@
 
 [每天一个 Linux 命令（7）：cd](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505576&idx=3&sn=a73d90226197275116c0d942564567e2&chksm=e918b3b4de6f3aa25ca5e9caf9b431b1a0bf4c3ed71f55434b334b31d40e9677f07aaff3d352&token=1373455756&lang=zh_CN#rd)
 
+[每天学一个 Linux 命令（8）：ls](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505631&idx=4&sn=318c53151e8f556909b482676941036b&chksm=e918b3c3de6f3ad5e45756e786c645e4d9df5d50df698310216216f4a57944ea82940d9dfcdf&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（9）：useradd/userdel](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247505659&idx=3&sn=b7dfea602ce3097e29351363e47f04d0&chksm=e918b3e7de6f3af1036f6f1d30b4b7eec2974f7b687d87c2435a0f88ea268ecb270b041ff96c&token=905126156&lang=zh_CN#rd)
+
  更多技术干货文章，也可以扫码**关注民工哥个人微信公众号：民工哥技术之路**
 
 ![图片](https://imgkr2.cn-bj.ufileos.com/f4bd618f-86fd-4a88-885f-0d4906dc2d7c.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=G63b%252FsGlm9gbUKUe4BYOdxVsk4U%253D&Expires=1608871797)
