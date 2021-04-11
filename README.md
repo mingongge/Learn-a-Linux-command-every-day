@@ -207,6 +207,21 @@
 
 [每天学一个 Linux 命令（100）：iotop](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511216&idx=3&sn=24939d9a3f73b48f49f3af1353b3f0b7&chksm=e918c9acde6f40badfeb2654c42cfc5d6af59f5e20a14d78984b4209b783b28b5fdb076aed81&scene=21#wechat_redirect)
 
+[每天学一个 Linux 命令（101）：pstree](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511248&idx=2&sn=bc76f7455e4786dbcee2fcd416b9ff56&chksm=e918c9ccde6f40da46a4ca2b4a6ffff8843b5797b01b6af07b88ee2c64b072711e73b14b4a33&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（102）：tac](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511248&idx=3&sn=aed085c1bf6edd4f68ab7c3cf33bf9ec&chksm=e918c9ccde6f40dab747dd00998cd64b95820d505b3a6c23e2f4422d5aa4a0454656bbb023c3&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（103）：dstat](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511398&idx=3&sn=0c04d1dda26d472bd64efecef8a3340c&chksm=e918c87ade6f416c3bf96e75555e3d81a209b6261c4fcde612ff516a57d259e359694077f8b0&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（104）：zcat](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511496&idx=2&sn=7ceeaacf7271da0a06240da306b89c47&chksm=e918c8d4de6f41c26149292d3c877eca9a8fefa3f4827e20871b29efcbedb08215b17a56387c&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（105）：tee](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511496&idx=3&sn=5943241f17f7d17af937fbc6df514a11&chksm=e918c8d4de6f41c2e7d3832ecd3c417c21c247c626821bd3843bf8bfcff9059785270d727ab4&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（106）：openssl](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511545&idx=2&sn=2ef9c5690b3b525de478bf358f3d2419&chksm=e918c8e5de6f41f30ee081093517b6d3b0e01e91a2961df6f5ec890497e3d3e8ea7d86ce9693&scene=21#wechat_redirect)
+
+[每天学一个 Linux 命令（107）：sar](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247511545&idx=3&sn=55b53dc61bf2f96d2746518d99214c05&chksm=e918c8e5de6f41f3b42dee48490eadadeff5c5ac25bcc9c7bf493240dbdfb33e51d0405d9d2d&scene=21#wechat_redirect)
+
+
  更多技术干货文章，也可以扫码**关注民工哥个人微信公众号：民工哥技术之路**
 
 ![image](https://user-images.githubusercontent.com/25194524/114305359-674cd980-9b0a-11eb-856f-acb57997ce01.png)
