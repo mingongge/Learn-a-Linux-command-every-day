@@ -241,6 +241,11 @@
 
 [每天学一个 Linux 命令（117）：atop](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247512104&idx=3&sn=83b4ee0a5c2e0a0d5610908550572c2a&chksm=e918d534de6f5c227332477be731deda53554ac65e2420867b3142fcb8ee9720ac588939f573&scene=21#wechat_redirect)
 
+[每天学一个 Linux 命令（118）：fping](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247512177&idx=3&sn=9b5eeb5a7c808b2438685ca5862e83ac&chksm=e918d56dde6f5c7ba3c6686b5c0cbe1209db441e98248f854b29a017e8e035c363db4b2f333f&scene=21#wechat_redirect)  
+
+[每天学一个 Linux 命令（119）：ioping](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247512177&idx=4&sn=2b45e5cfca8f7669ef2a404c8a485781&chksm=e918d56dde6f5c7bdce7f03c5fb7fbab899d7ec6c43137904d1379b73621de2df789d4af55ae&scene=21#wechat_redirect)  
+
+[每天学一个 Linux 命令（120）：pidstat](http://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247512338&idx=8&sn=a1e11542b25d56cace660c3f323b2423&chksm=e918d40ede6f5d1808930b8121209e555a5f89e1928659be1e2f274cdd74e6cf730c181ba7f3&scene=21#wechat_redirect)
 
  更多技术干货文章，也可以扫码**关注民工哥个人微信公众号：民工哥技术之路**
 
